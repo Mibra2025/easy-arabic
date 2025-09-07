@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic/**)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic/**)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic/**)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic/**)",
+      "Bash(npx create-next-app:*)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic\\easy-arabic-nextjs/**)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic\\easy-arabic-nextjs/**)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic\\easy-arabic-nextjs/**)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic\\easy-arabic-nextjs/**)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic\\easy-arabic-nextjs/**)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic\\easy-arabic-nextjs/**)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic\\easy-arabic-nextjs\\src\\app/**)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic\\easy-arabic-nextjs/**)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic\\easy-arabic-nextjs\\src\\app/**)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic\\easy-arabic-nextjs/**)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic\\easy-arabic-nextjs/**)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic\\easy-arabic-nextjs\\src\\components\\sections/**)",
+      "Bash(npm run dev:*)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic\\easy-arabic-nextjs/**)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic\\easy-arabic-nextjs/**)",
+      "Read(/C:\\Users\\i.muradbek\\apps\\easy-arabic\\easy-arabic-nextjs\\src\\app/**)",
+      "Bash(git init:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
